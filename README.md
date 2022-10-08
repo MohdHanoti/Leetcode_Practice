@@ -20,3 +20,5 @@ install **Jupyter** :   [https://marketplace.visualstudio.com/items?itemName=ms-
 What observations or questions do you have about what you’ve learned so far?
 i have an error durung running the tests
 How long did it take you to complete this assignment? And, before you started, how long did you think it would take you to complete this assignment? i expect to take 2 hours but it toke 3
+
+PR : https://github.com/MohdHanoti/Leetcode_Practice/pull/1
